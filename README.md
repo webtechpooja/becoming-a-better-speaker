@@ -86,7 +86,7 @@ No matter how much public speaking experience you have, there is always room for
 
 #### Do:
 
-* **Speak slowly.** Many speakers speak too fast, but audiences almost never complain that someone went too slowly. Take pauses in between sentences. It may feel strange to you, but will seem very natural to the audience.
+* **Speak slowly.** Many speakers speak too fast, but audiences almost never complain that someone went too slowly. Take pauses in between sentences. It may feel strange to you but will seem very natural to the audience.
 * **Have water available and drink it.** Most events will provide water for the speaker, but make sure you have water on hand just in case. When you find yourself going too fast, taking a drink of water is a great way to slow yourself down. It might feel like it takes forever to take a drink, but the audience doesn't mind.
 * **Vary your voice.** This gets easier with practice. You don't want to speak in a monotone, so make sure you have some inflection in your tone.
 * **Look at your whole audience.** Make eye contact with people if you can, but make sure you scan the whole room and don't just look at one part of the audience. One trick here is to locate some friendly faces in multiple sections of a big audience, then address them one at a time in a loop.
@@ -100,7 +100,7 @@ No matter how much public speaking experience you have, there is always room for
 * **Drink too much coffee.** You're already jittery from nerves, so you don't need a coffee buzz on top of it!
 * **Turn away from the audience.** If you need to point something out in your slides, make sure that you keep your face pointed toward the audience as you point.
 * **Use filler words like "um."** You might not even notice you are doing this so ask a friend to point it out in rehearsal or record yourself and take notes.
-* **Read your slides or notes directly.** Make sure you look up from your notes, and ad lib at least a little bit.
+* **Read your slides or notes directly.** Make sure you look up from your notes, and ad-lib at least a little bit.
 
 ### Handling Nerves
 
@@ -124,13 +124,13 @@ Here are some things you can do to help soothe your nerves:
 
 #### Timing
 
-Many talks have an audience questions-and-answer session at the end. Ask the organizers in advance what the expectations are. Try timing your talk when you rehearse it and make sure you've left room for an adequate amount of Q&A time, if that's something you'll be expected to do.
+Many talks have an audience question-and-answer session at the end. Ask the organizers in advance what the expectations are. Try timing your talk when you rehearse it and make sure you've left room for an adequate amount of Q&A time, if that's something you'll be expected to do.
 
-How much time should you allow for Q&A? If the organizers haven't specified this for you, it usually depends on length of your whole session. In general, 10-20 minutes is adequate. For example, if your whole presentation takes up a 45-minute slot you might want to allow 35 minutes for the presentation and 10 minutes for questions.
+How much time should you allow for Q&A? If the organizers haven't specified this for you, it usually depends on the length of your whole session. In general, 10-20 minutes is adequate. For example, if your whole presentation takes up a 45-minute slot you might want to allow 35 minutes for the presentation and 10 minutes for questions.
 
 #### Interspersing Q&A
 
-Some people prefer to take questions throughout their talk rather than holding them until the end. Let your audience know up front what you prefer, bearing in mind that if your audience will be using a microphone due to the size of the room or the fact that your talk is being recorded, you'll need to give the room technician a heads-up about your Q&A plans so they're ready with the audience microphone as needed.
+Some people prefer to take questions throughout their talk rather than holding them until the end. Let your audience know upfront what you prefer, bearing in mind that if your audience will be using a microphone due to the size of the room or the fact that your talk is being recorded, you'll need to give the room technician a heads-up about your Q&A plans so they're ready with the audience microphone as needed.
 
 #### **Don't Forget to Ask for Questions!**
 
@@ -164,9 +164,9 @@ Sometimes people will ask questions that have little or nothing to do with your 
 
 What if you finish your talk, throw open the floor to the audience and there are no questions? That's totally OK! There aren't always questions.
 
-* You can have one or two people you know in the audience ready to ask a question, or even chime in with a different angle. For example, if you’re a developer, have a designer ready with an observation on your topic from that point of view.
-* You can also ask and answer your own questions. For example: "Something I didn't go into in depth in the talk, but that you might be wondering about, is…" or "A question I've had come up before is..."
-* You can ask the audience a question. For example: "Something I didn't go into in depth in the talk, but that you might be wondering about, is...” or “A question I’ve had come up before is….”
+* You can have one or two people you know in the audience ready to ask a question or even chime in with a different angle. For example, if you’re a developer, have a designer ready with an observation on your topic from that point of view.
+* You can also ask and answer your own questions. For example: "Something I didn't go into in-depth in the talk, but that you might be wondering about, is…" or "A question I've had come up before is..."
+* You can ask the audience a question. For example: "Something I didn't go into in-depth in the talk, but that you might be wondering about, is...” or “A question I’ve had come up before is….”
 
 #### **Errors**
 
@@ -207,7 +207,7 @@ Before each one starts:
 
 * Ask them if they would like us to record them on their phones so they can watch it later.
 * Ask them if they wish for feedback.
-* They may watch their time on the large device (such as iPad).
+* They may watch their time on a large device (such as an iPad).
 
 (Each student will get up and talk.  Time them and make them stop when the time is up.  If they wanted feedback, turn to the room and ask:
 
